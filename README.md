@@ -9,6 +9,7 @@ To run the server run
 ```sh
 nodemon app.js
 ```
+# If the server crushes please restart the server
 # Project Limitation
 * Write file from server in case of duplicate api call is not implemented yet
 * Can search wheather only by using city name and country name.For example -
